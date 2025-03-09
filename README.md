@@ -63,6 +63,12 @@ grammY – Telegram Bot Framework.
 
 Groq API – AI chat & voice transcription.
 
+🎲Here my telegram bot build with deno.ts🎲
+
+@groq_ai_tgbot
+
+http://t.me/groq_ai_tgbot
+
 
 📜 License
 
